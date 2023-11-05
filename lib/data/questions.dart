@@ -2,7 +2,7 @@ import 'package:quiz/models/question_model.dart';
 
 const questions = [
   QuestionModel(
-      "Flutter'da Stateful Widget ile Stateles Widget arasındaki temel fark nedir?",
+      "Flutter'da Stateful Widget ile Stateles Widget arasındaki temel fark nedir??",
       [
         "Stateful Widget, iç durumunu değiştirebilir; Stateles Widget ise durumu değiştiremez.",
         "Stateful Widget, yapılarını oluşturmak için initState() fonksiyonunu kullanır; Stateles Widget bunu kullanmaz.",
